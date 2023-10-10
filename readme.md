@@ -6,7 +6,7 @@ This is an example website developed with Django that provides a set of key func
 
 The example website includes the following features:
 
-- **What are CBVs and how to use them**: Explore how Class Based Views work in Django and how to use them in your project.
+- **CBVs**: Class Based Views.
 
 - **Generating CRUD views with forms using CBV**: Learn how to create CRUD (Create, Read, Update, Delete) views using Class Based Views and forms.
 
